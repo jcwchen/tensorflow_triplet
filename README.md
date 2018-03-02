@@ -17,5 +17,8 @@ python extract.py --file [img_path] --model_dir [model_path]
 
 Output features of certain image of triplet model.
 
+Download pre-trained AlexNet model: (ImageNet)
+https://www.dropbox.com/s/krrdcff1ovwvlf3/alexnet_imagenet.npy
+
 Reference: Facenet: A unified embedding for face recognition and clustering 
 https://arxiv.org/abs/1503.03832
